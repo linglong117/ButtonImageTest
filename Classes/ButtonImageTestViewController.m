@@ -43,6 +43,7 @@
     
     
     NSLog(@"git test");
+    
 
     
     UIImage *smallImage = [UIImage imageNamed:@"bubble2.jpg"];
