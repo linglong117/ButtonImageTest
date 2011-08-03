@@ -41,11 +41,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
-    NSLog(@"git test");
-    
-
-    
+    NSLog(@"git test ttt");
+        
     UIImage *smallImage = [UIImage imageNamed:@"bubble2.jpg"];
     //self.view.backgroundColor = [UIColor colorWithPatternImage:smallImage];  
     [smallImage release]; 
