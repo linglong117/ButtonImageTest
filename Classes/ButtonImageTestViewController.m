@@ -40,7 +40,7 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"test  test");
+    NSLog(@"test  test test");
     
     UIImage *smallImage = [UIImage imageNamed:@"bubble2.jpg"];
     //self.view.backgroundColor = [UIColor colorWithPatternImage:smallImage];  
